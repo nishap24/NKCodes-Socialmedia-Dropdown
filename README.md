@@ -16,7 +16,7 @@ NK Codes💛-Social media dropdown is a responsive and interactive dropdown menu
 
 Live Demo:
 
-    
+ https://nishap24.github.io/NKCodes-Socialmedia-Dropdown/   
 ## Getting Started
 
 To get started with the NK Codes💛-Social media dropdown, follow these steps:
