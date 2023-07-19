@@ -80,7 +80,9 @@ Note: The provided code offers a foundation for a social media dropdown menu. Yo
 - Customizable to fit specific design and functionality requirements..
 
 
+## Deployment Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/788fe6a1-e3c1-4ef3-b6fd-8d7407a595ab/deploy-status)](https://app.netlify.com/sites/kanasu-social-media-dropdown/deploys)
 
 
 ## Contributing
